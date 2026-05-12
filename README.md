@@ -1,1 +1,1 @@
-# Portfolio1_-Expressions_GWA-Calculator
+In fulfillment for the subject BES 10a, this project is a Python-based General Weighted Average (GWA) Calculator that computes students’ GWA using grades and subject units. It demonstrates basic programming concepts such as variables, input and output, expressions, arithmetic operations, type conversion, sequential programming, and the use of print statement.
